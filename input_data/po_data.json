@@ -1,0 +1,39 @@
+{
+  "PO Date": "2025-03-01",
+  "PO ID": "0001",
+  "Suppplier ID": "X01",
+  "Order Value": 25000,
+  
+  "items":[
+    {
+      "SKU": "S001",
+      "Description": "Printing Papers",
+      "Quantity":100,
+      "Unit Price":2.00,
+      "Line Total":200
+    },
+    {
+      "SKU": "S002",
+      "Description": "Pen",
+      "Quantity":10,
+      "Unit Price": 12.00,
+      "Line Total":120
+    },
+    {
+      "SKU":"S003",
+      "Description": "Pencil",
+      "Quantity": 5,
+      "Unit Price": 5,
+      "Line Totlal": 25
+
+    },
+    {
+      "SKU": "S004",
+      "Description": "Markers",
+      "Quantity":10,
+      "Price": 100,
+      "Discount":0.05,
+      "Line Totla": 950
+    }
+  ]
+}
